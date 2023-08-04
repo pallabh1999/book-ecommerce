@@ -1,0 +1,53 @@
+.footer-container{
+  background-color: rgb(78, 71, 71);
+  padding: 5rem 0;
+
+
+}
+
+.footer-container h2{
+    color: white;
+
+}
+
+.footer-container p{
+   color: white;
+   padding-top: 2rem;
+   font-size: 0.8rem;
+}
+
+
+.footer-form{
+    padding-top: 3rem;
+    width: 40%;
+}
+.form-group{
+    padding-top: 1rem 0;
+}
+
+.form-label{
+    display: inline-block;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.form-input{
+    
+    width: 100%;
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    outline: none;
+}
+.form-submit{
+    display: inline-block;
+    color: rgb(247, 238, 238);
+    text-decoration: none;
+    background-color: rgb(168, 123, 207);
+    padding: 0.3rem 2rem;
+    transition: 0.3s ease-in;
+}
+.form-submit:hover{
+    background-color: rgb(187, 85, 85);
+}
+

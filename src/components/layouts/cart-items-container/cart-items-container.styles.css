@@ -1,0 +1,17 @@
+.cart-items-container{
+    padding: 5% 0;
+}
+.proccedbtn{
+    background-color: rgb(51, 44, 146);
+    color: white;
+    padding: 5.5px;
+    border-radius: 5px;
+    margin-top: 1rem;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.proccedbtn:hover{
+    background-color: brown;
+    color: white;
+}
